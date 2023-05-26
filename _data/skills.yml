@@ -1,52 +1,23 @@
-# # Skills
-# # Organizational leadership
-# - skill: Organizational leadership
-#   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# # Communications strategy
-# - skill: Communications strategy
-#   description: Content and marketing strategy,
-
-# # Digital content development and creation
-# - skill: Digital content development and creation
-#   description: Copy writing, graphic design, web design, front-end web development, print design
-
-
 - title: Programming
-  skills:
-    - Java
-    - Object Oriented Programming
-    - Python
-    - Visual Basic
-    - LaTeX
+  skills: Java, Object Oriented Programming, Python, Visual Basic, LaTeX
+
 - title: Java Frameworks
-  skills:
-    - Spring Boot
-    - Hibernate
+  skills: Spring Boot, Hibernate
+
 - title: API Design & Development
-  skills:
-    - REST
-    - Maven
-    - PostMan
-    - Swagger
+  skills: REST, Maven, PostMan, Swagger
+
 - title: Database Management
-  skills:
-    - SQL
-    - Relational databases (MySQL, PostgreSQL)
+  skills: SQL, Relational databases (MySQL, PostgreSQL)
+
 - title: Version Control
-  skills:
-    - Git
-    - GitHub
+  skills: Git, GitHub
+
 - title: IDE
-  skills:
-    - IntelliJ Idea
-    - Eclipse
-    - STS
+  skills: IntelliJ Idea, Eclipse, STS
+
 - title: OS
-  skills:
-    - Windows 11
-    - Linux (Ubuntu)
+  skills: Windows 11, Linux (Ubuntu)
+
 - title: Analysis & Storytelling
-  skills:
-    - MS Office Suite (Excel, PowerPoint, Word)
-    - MS Power BI
+  skills: MS Office Suite (Excel, PowerPoint, Word), MS Power BI
