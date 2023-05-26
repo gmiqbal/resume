@@ -62,7 +62,7 @@
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">
             {% for point in job.summary %}
-            {{ point | join: "<br>" }}
+            <p>{{ point }}</p>
             {% endfor %}
           </p>
         </div><!-- end of resume-item -->
@@ -71,6 +71,7 @@
       </section>
       <!-- end Experience -->
       {% endif %}
+      
       
 
 
