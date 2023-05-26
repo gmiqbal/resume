@@ -20,13 +20,12 @@ resume_contact_email:           "gmiqbalm@gmail.com"
 resume_contact_telephone:       "+8801753377808"
 resume_contact_address:         "North Badda, Dhaka-1212"
 
-resume_header_contact_info:     "North Badda, Dhaka-1212 • +8801753377808 • gmiqbalm@gmail.com"
+resume_header_contact_info:     "North Badda, Dhaka-1212  •  +8801753377808  •  gmiqbalm@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: <p>
+resume_header_intro: "<p>
   A driven professional with a strong engineering background and expertise in supply chain. Seeking to transition into software engineering, unlocking my untapped potential. Committed to leveraging technology, fostering growth, and delivering transformative solutions within a collaborative community.
-</p>
-
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
