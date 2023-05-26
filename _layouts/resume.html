@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/DP.png" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -120,20 +120,23 @@
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
-
+      
         <header class="section-header">
           <h2>Skills</h2>
         </header>
-        {% for skill in site.data.skills %}
+        {% for category in site.data.skills %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <h4 class="resume-item-details"><strong>{{ category.title }}</strong></h4>
+          {% for skill in category.skills %}
+          <p class="resume-item-copy">{{ skill }}</p>
+          {% endfor %}
         </div>
         {% endfor %}
-
+      
       </section>
       <!-- end Skills -->
       {% endif %}
+      
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
