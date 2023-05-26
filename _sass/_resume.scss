@@ -43,19 +43,19 @@ body {
   margin: 0 0 2rem; /* Decreased margin between items */
 
   .resume-item {
-    margin-bottom: 1.5rem; /* Decreased margin between subpoints */
+    margin-bottom: 1.75rem; /* Decreased margin between subpoints */
   }
 
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .5rem; /* Decreased margin between item title and details */
-    font-size: 1.125rem; /* Increase font size for item titles */
+    font-size: 1.5rem; /* Increase font size for item titles */
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
-    font-size: 0.875rem; /* Decreased font size of item details */
+    font-size: 1rem; /* Decreased font size of item details */
     margin: 0 0 .5rem; /* Decreased margin between item details and subpoints */
     line-height: 1;
 
