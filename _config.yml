@@ -21,7 +21,7 @@ resume_contact_telephone:       "+8801753377808"
 resume_contact_address:         "North Badda, Dhaka-1212"
 
 resume_header_contact_info:     "North Badda, Dhaka-1212 • +8801753377808 • gmiqbalm@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p class=\"text-justify\">\nA driven professional with a strong engineering background and expertise in supply chain. Seeking to transition into software engineering, unlocking my untapped potential. Committed to leveraging technology, fostering growth, and delivering transformative solutions within a collaborative community.\n</p>"
 
