@@ -1,10 +1,31 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+- award: 60% CSCA Scholarship winner at the PTAK Prize Global Supply Chain Competition
+  organization: International Supply Chain Education Alliance (ISCEA)
+  year: 2021
+  # summary: 
+
+ - award: Dean’s Award
+  organization: Faculty of Mechanical Engineering, KUET
+  year: 2018-2019
+
+- award:  Finalist at Supply Chain Alliance Upstream, Inter-University Case Competition
+  organization: Supply Chain Alliance, DU FBS
+  year: 2021
+
+- award: Semi-finalist at MCC National Casefographic Challenge
+  organization: Department of Management, University of Chittagong
+  year: 2020
+
+- award: Technical Scholarship
+  organization: Khulna University of Engineering & Technology (KUET)
+  year: 2017-2021
+
+
+- award: National Education Board Scholarship, Secondary School Certificate
+  organization: National Education Board
+  year: 2016
+
+
+

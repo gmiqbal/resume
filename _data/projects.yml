@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# pos
+- project: Point of Sale Software using Java, Spring Boot
+  # role:
+  duration: April 2023 &mdash; Present
+  url: "https://github.com/gmiqbal/point-of-sale-app"
+  # description:
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  # ntpp
+- project: Automated "No Touch Production Planning" tool using Microsoft Visual Basic
+  # role:
+  duration: Sep 2022 &mdash; Dec 2022
+  # url: "https://github.com/gmiqbal/point-of-sale-app"
+  # description:
+
+# thesis
+- project:  Solving Capacitated Vehicle Routing Problem (CVRP) by Heuristic Approaches- A Case Study
+  # role:
+  duration: April 2022
+  # url: "https://github.com/gmiqbal/point-of-sale-app"
+  # description:
+
+  # project
+- project:  Designing Inventory Management Dashboard Using Microsoft Power BI
+  # role:
+  duration: November 2021
+  # url: "https://github.com/gmiqbal/point-of-sale-app"
+  # description:
